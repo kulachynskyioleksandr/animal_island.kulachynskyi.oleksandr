@@ -1,0 +1,23 @@
+{
+  "island": {
+    "width": 30,
+    "height": 30
+  },
+  "animals": [
+    {"type": "Wolf", "weight": 50.0, "maxAmountPerCell": 30, "speed": 3, "requiredFood": 8.0},
+    {"type": "Python", "weight": 15.0, "maxAmountPerCell": 30, "speed": 1, "requiredFood": 3.0},
+    {"type": "Fox", "weight": 8.0, "maxAmountPerCell": 30, "speed": 2, "requiredFood": 2.0},
+    {"type": "Bear", "weight": 500.0, "maxAmountPerCell": 5, "speed": 2, "requiredFood": 80.0},
+    {"type": "Eagle", "weight": 6.0, "maxAmountPerCell": 20, "speed": 3, "requiredFood": 1.0},
+    {"type": "Horse", "weight": 400.0, "maxAmountPerCell": 20, "speed": 4, "requiredFood": 60.0},
+    {"type": "Deer", "weight": 300.0, "maxAmountPerCell": 20, "speed": 4, "requiredFood": 50.0},
+    {"type": "Rabbit", "weight": 2.0, "maxAmountPerCell": 150, "speed": 2, "requiredFood": 0.45},
+    {"type": "Mouse", "weight": 0.05, "maxAmountPerCell": 500, "speed": 1, "requiredFood": 0.01},
+    {"type": "Goat", "weight": 60.0, "maxAmountPerCell": 140, "speed": 3, "requiredFood": 10.0},
+    {"type": "Sheep", "weight": 70.0, "maxAmountPerCell": 140, "speed": 3, "requiredFood": 15.0},
+    {"type": "Boar", "weight": 400.0, "maxAmountPerCell": 50, "speed": 2, "requiredFood": 50.0},
+    {"type": "Buffalo", "weight": 700.0, "maxAmountPerCell": 10, "speed": 3, "requiredFood": 100.0},
+    {"type": "Duck", "weight": 1.0, "maxAmountPerCell": 200, "speed": 4, "requiredFood": 0.15},
+    {"type": "Caterpillar", "weight": 0.01, "maxAmountPerCell": 1000, "speed": 0, "requiredFood": 0.005}
+  ]
+}
